@@ -14,7 +14,6 @@
     <a href="https://www.linkedin.com/in/tasmia-tahmida-711427177"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://tasmia008.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
     <a href="https://www.kaggle.com/tasmiatahmida"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></a>
-<!--     <a href="https://drive.google.com/file/d/1KCcm_IJnlZa1TUarPKhyXBoqWOT7x_xJ/view"><img src="https://img.shields.io/badge/Resume-d62828?style=for-the-badge&logo=researchgate&logoColor=02c39a"></a> -->
 <!--     <a href="https://www.kaggle.com/tasmiatahmida"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
 </div>
 
@@ -27,7 +26,7 @@
             <td align="center"><strong>Programming Languages</strong></td>
             <td align="center">
                     <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30" width="100">
-                    <img align="center" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" height="30" width="100">
+                    <img align="center" src="https://img.shields.io/badge/c++%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" height="30" width="100">
                     <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30" width="100">
                     <img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="30" width="100">
                     <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30" width="100">
@@ -35,7 +34,6 @@
                     <img align="center" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" height="30" width="100">
                     <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="30" width="100">
                     <img align="center" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" height="30" width="100">
-                    <img align="center" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" height="30" width="100">
             </td>
         </tr>
         <tr>
