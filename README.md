@@ -26,7 +26,8 @@
             <td align="center"><strong>Programming Languages</strong></td>
             <td align="center">
                     <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30" width="100">
-                    <img align="center" src="https://img.shields.io/badge/c++%230175C2.svg?style=for-the-badge&logo=c++&logoColor=white" height="30" width="100">
+                    <img align="center" src=https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30" width="100">
+
                     <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30" width="100">
                     <img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="30" width="100">
                     <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30" width="100">
@@ -58,6 +59,13 @@
             <td align="center">
                     <img align="center" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" height="30" width="100">
                     <img align="center" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" height="30" width="100">
+                    <img align="center" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" height="30" width="100">
+
+                    <img align="center" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" height="30" width="100">
+
+                    [![Laravel](https://img.shields.io/badge/vellaravel-%23FF2D20.svg?style=for-the-badge&logo=lara&logoColor=white)](https://laravel.com/)
+                   [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+
             </td>
         </tr>
         <tr>
