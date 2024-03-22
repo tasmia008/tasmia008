@@ -10,7 +10,7 @@
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tasmia008" alt="tasmia008" /></a> </p>!-->
 
 <div align="center">
-    <a href="https://drive.google.com/file/d/1TK1o7eHxcKH4i5x6LUzs97v7U21iVXmL/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-d62828?style=for-the-badge&logo=researchgate&logoColor=02c39a"></a>
+    <a href="https://drive.google.com/file/d/1OHH8bnSzPW_yap_VQOxVj45jh-jsgkEl/view?usp=sharing/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-d62828?style=for-the-badge&logo=researchgate&logoColor=02c39a"></a>
     <a href="https://www.linkedin.com/in/tasmia-tahmida-711427177"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://tasmia008.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
     <a href="https://www.kaggle.com/tasmiatahmida"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></a>
@@ -26,7 +26,7 @@
             <td align="center"><strong>Programming Languages</strong></td>
             <td align="center">
                     <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30" width="100">
-                    <img align="center" src="https://img.shields.io/badge/c++%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" height="30" width="100">
+                    <img align="center" src="https://img.shields.io/badge/c++%230175C2.svg?style=for-the-badge&logo=c++&logoColor=white" height="30" width="100">
                     <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30" width="100">
                     <img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="30" width="100">
                     <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30" width="100">
