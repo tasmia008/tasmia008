@@ -256,7 +256,7 @@
 <tr align="center">
 <tr align="center">
 <!--         <th colspan="7"><a href="https://github.com/tasmia008/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Email%20me%20via%20cotechlevy@gmail.com;I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a></th> -->
-    <th colspan="7"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1BF711&center=true&vCenter=true&random=false&width=435&lines=I+am+ready+to+work+with+you.;Mail+me+via+neloycareer018%40gmail.com" alt="Typing SVG" /></a></th>
+    <th colspan="7"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1BF711&center=true&vCenter=true&random=false&width=435&lines=I+am+ready+to+work+with+you.;Mail+me+via+tasmiatahmida.8@gmail.com" alt="Typing SVG" /></a></th>
       </tr>
 <td align="center">
 
