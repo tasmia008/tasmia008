@@ -55,16 +55,13 @@
             </td>
         </tr>
         <tr>
-            <td align="center"><strong>Frameworks</strong></td>
-            <td align="center">
-                    <img align="center" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" height="30" width="100">
-                    <img align="center" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" height="30" width="100">
-                    <img align="center" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" height="30" width="100">
-
-                    <img align="center" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" height="30" width="100">
-
-                    [![Laravel](https://img.shields.io/badge/vellaravel-%23FF2D20.svg?style=for-the-badge&logo=lara&logoColor=white)](https://laravel.com/)
-                   [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+       <td align="center"><strong>Frameworks</strong></td>
+<td align="center">
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" height="30" width="100">
+    <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" height="30" width="100">
+    <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" height="30" width="100">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="30" width="100">
+</td>
 
             </td>
         </tr>
