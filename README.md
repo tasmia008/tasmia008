@@ -1,35 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-  <div>
-    <p><strong>Hi there 👋</strong></p>
-    
-    <p>I completed my <strong>B.Sc. in Computer Science & Engineering</strong> at Ahsanullah University of Science and Technology.</p>
-    
-    <p>I have worked as a:</p>
-    <ul>
-      <li><strong>Full Stack Web Developer</strong> at Dotlines</li>
-      <li><strong>Jr. Machine Learning Engineer (R&D)</strong> at Adon Venture, specializing in multilingual text processing</li>
-    </ul>
+## Hi there 👋
 
-    <p>Additionally, as a <strong>Research Assistant</strong> at the Pioneer Alpha Lab, I led a project focused on medical imaging.</p>
+I completed my **B.Sc. in Computer Science & Engineering** at Ahsanullah University of Science and Technology.
 
-    <p>I possess a deep understanding of:</p>
-    <ul>
-      <li>Statistical concepts</li>
-      <li>Deep learning</li>
-      <li>Large language models</li>
-    </ul>
+### I have worked as a:
+- **Full Stack Web Developer** at Dotlines
+- **Jr. Machine Learning Engineer (R&D)** at Adon Venture, specializing in multilingual text processing
 
-    <p>With extensive experience in programming languages, particularly <strong>Python and C</strong>, I am also skilled in Full Stack Web Development, making me well-suited for R&D roles that require both prototype development and pioneering research. I absolutely love contributing to R&D projects!</p>
-    
-    <p><strong>🔭 Currently seeking PhD admission roles across the USA.</strong></p>
-    
-    <p>Feel free to contact me via email at <a href="mailto:tasmiatahmida.8@gmail.com">tasmiatahmida.8@gmail.com</a> or connect with me on <a href="https://www.linkedin.com">LinkedIn</a>.</p>
-  </div>
-</body>
-</html>
+Additionally, as a **Research Assistant** at the Pioneer Alpha Lab, I led a project focused on medical imaging.
+
+### I possess a deep understanding of:
+- Statistical concepts
+- Deep learning
+- Large language models
+
+With extensive experience in programming languages, particularly **Python and C**, I am also skilled in Full Stack Web Development, making me well-suited for R&D roles that require both prototype development and pioneering research. I absolutely love contributing to R&D projects!
+
+**🔭 Currently seeking PhD admission roles across the USA.**
+
+Feel free to contact me via email at [tasmiatahmida.8@gmail.com](mailto:tasmiatahmida.8@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com).
