@@ -6,7 +6,6 @@
 </head>
 <body>
   <div>
-    <h1>GitHub Introductory Profile</h1>
     <p><strong>Hi there 👋</strong></p>
     
     <p>I completed my <strong>B.Sc. in Computer Science & Engineering</strong> at Ahsanullah University of Science and Technology.</p>
