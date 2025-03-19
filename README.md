@@ -3,7 +3,6 @@
 I completed my **B.Sc. in Computer Science & Engineering** at Ahsanullah University of Science and Technology.
 
 ### I have worked as a:
-- **Full Stack Web Developer** at Dotlines
 - **Jr. Machine Learning Engineer (R&D)** at Adon Venture, specializing in multilingual text processing
 
 Additionally, as a **Research Assistant** at the Pioneer Alpha Lab, I led a project focused on medical imaging.
